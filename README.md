@@ -8,7 +8,7 @@ Data_Analysis_Assignment_wk_7
 ├─ streamlit_app.py
 
 
-# CORD-19 Metadata Explorer (Frameworks_Assignment)
+# COVID-19 Metadata Explorer (Frameworks_Assignment)
 
 This project explores the CORD-19 `metadata.csv` file (sample) and provides a Streamlit app for interactive exploration.
 
